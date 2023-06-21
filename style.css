@@ -7,7 +7,7 @@
             font-family: 'Roboto', Arial, sans-serif;
             margin: 0;
             padding: 20px;
-            background: img src="backgrond.gif" alt="Background" width="35" height="35" fixed;
+            background: url('background.gif') fixed;
             background-size: cover;
         }
 
